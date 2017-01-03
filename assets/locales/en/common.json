@@ -1,0 +1,8 @@
+{
+  "common1": "Common 1",
+  "common5": "replace this {{value}}",
+  "foo": {
+    "bar": "EN bar",
+    "baz": "EN baz"
+  }
+}

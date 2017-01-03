@@ -1,0 +1,8 @@
+{
+  "common1": "Comune 1",
+  "common5": "rimpiazza questo {{value}}",
+  "foo": {
+    "bar": "it BAR",
+    "baz": "it BAZ"
+  }
+}
